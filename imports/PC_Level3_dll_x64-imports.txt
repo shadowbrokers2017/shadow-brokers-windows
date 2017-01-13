@@ -1,0 +1,228 @@
+Imported functions
+    Library
+        Name:                            ADVAPI32.dll
+        Functions
+            Function
+                Name:                            RegDeleteValueA
+            Function
+                Name:                            RegOpenKeyExA
+            Function
+                Name:                            RegQueryValueExA
+            Function
+                Name:                            RegSetValueExA
+            Function
+                Name:                            RegCreateKeyExA
+            Function
+                Name:                            RegCloseKey
+    Library
+        Name:                            USER32.dll
+        Functions
+            Function
+                Name:                            LoadIconW
+            Function
+                Name:                            DispatchMessageW
+            Function
+                Name:                            TranslateMessage
+            Function
+                Name:                            PeekMessageW
+            Function
+                Name:                            LoadCursorW
+            Function
+                Name:                            CloseWindow
+            Function
+                Name:                            GetCursorPos
+            Function
+                Name:                            DefWindowProcW
+            Function
+                Name:                            RegisterClassW
+            Function
+                Name:                            CreateWindowExW
+            Function
+                Name:                            ShowWindow
+            Function
+                Name:                            UpdateWindow
+            Function
+                Name:                            UnregisterClassW
+    Library
+        Name:                            msvcrt.dll
+        Functions
+            Function
+                Name:                            calloc
+            Function
+                Name:                            sprintf
+            Function
+                Name:                            malloc
+            Function
+                Name:                            free
+            Function
+                Name:                            _amsg_exit
+            Function
+                Name:                            wcscpy
+            Function
+                Name:                            strcat
+            Function
+                Name:                            strcpy
+            Function
+                Name:                            _vsnprintf
+            Function
+                Name:                            _vsnwprintf
+            Function
+                Name:                            _wstati64
+            Function
+                Name:                            _wfopen
+            Function
+                Name:                            fseek
+            Function
+                Name:                            fwrite
+            Function
+                Name:                            fflush
+            Function
+                Name:                            fclose
+            Function
+                Name:                            wcslen
+            Function
+                Name:                            memmove
+            Function
+                Name:                            _local_unwind
+            Function
+                Name:                            memcpy
+            Function
+                Name:                            _snwprintf
+            Function
+                Name:                            wcsncpy
+            Function
+                Name:                            strtoul
+            Function
+                Name:                            memset
+            Function
+                Name:                            time
+            Function
+                Name:                            localtime
+            Function
+                Name:                            strlen
+            Function
+                Name:                            __C_specific_handler
+            Function
+                Name:                            __CxxFrameHandler
+            Function
+                Name:                            memcmp
+            Function
+                Name:                            _XcptFilter
+            Function
+                Name:                            _stricmp
+            Function
+                Name:                            _wcsicmp
+            Function
+                Name:                            _initterm
+    Library
+        Name:                            ntdll.dll
+        Functions
+            Function
+                Name:                            RtlCaptureContext
+            Function
+                Name:                            RtlLookupFunctionEntry
+            Function
+                Name:                            RtlVirtualUnwind
+    Library
+        Name:                            KERNEL32.dll
+        Functions
+            Function
+                Name:                            SetUnhandledExceptionFilter
+            Function
+                Name:                            UnhandledExceptionFilter
+            Function
+                Name:                            TerminateProcess
+            Function
+                Name:                            GetExitCodeThread
+            Function
+                Name:                            CreateThread
+            Function
+                Name:                            SetThreadPriority
+            Function
+                Name:                            ResumeThread
+            Function
+                Name:                            TlsSetValue
+            Function
+                Name:                            TlsGetValue
+            Function
+                Name:                            ReadProcessMemory
+            Function
+                Name:                            TlsAlloc
+            Function
+                Name:                            TlsFree
+            Function
+                Name:                            GetCurrentProcess
+            Function
+                Name:                            UnmapViewOfFile
+            Function
+                Name:                            GetModuleHandleA
+            Function
+                Name:                            WideCharToMultiByte
+            Function
+                Name:                            MultiByteToWideChar
+            Function
+                Name:                            VirtualFree
+            Function
+                Name:                            GetThreadTimes
+            Function
+                Name:                            GetCurrentProcessId
+            Function
+                Name:                            GetCurrentThreadId
+            Function
+                Name:                            GetDiskFreeSpaceExW
+            Function
+                Name:                            GlobalMemoryStatus
+            Function
+                Name:                            GetTickCount
+            Function
+                Name:                            QueryPerformanceCounter
+            Function
+                Name:                            GetSystemTimeAsFileTime
+            Function
+                Name:                            SetLastError
+            Function
+                Name:                            GetCurrentThread
+            Function
+                Name:                            WaitForSingleObject
+            Function
+                Name:                            TerminateThread
+            Function
+                Name:                            SetErrorMode
+            Function
+                Name:                            GetVersion
+            Function
+                Name:                            GetVersionExA
+            Function
+                Name:                            LoadLibraryW
+            Function
+                Name:                            MoveFileW
+            Function
+                Name:                            FreeLibrary
+            Function
+                Name:                            DeleteFileW
+            Function
+                Name:                            CreateProcessW
+            Function
+                Name:                            CloseHandle
+            Function
+                Name:                            GetTempPathW
+            Function
+                Name:                            GetTempFileNameW
+            Function
+                Name:                            CreateFileW
+            Function
+                Name:                            WriteFile
+            Function
+                Name:                            GetLastError
+            Function
+                Name:                            VirtualAlloc
+            Function
+                Name:                            LoadLibraryA
+            Function
+                Name:                            GetProcAddress
+            Function
+                Name:                            GetVersionExW
+            Function
+                Name:                            Sleep
+            Function
+                Name:                            VirtualProtect

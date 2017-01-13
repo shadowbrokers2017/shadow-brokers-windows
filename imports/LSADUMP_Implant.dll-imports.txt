@@ -1,0 +1,154 @@
+Imported functions
+    Library
+        Name:                            MSVCRT.dll
+        Functions
+            Function
+                Name:                            _stricmp
+            Function
+                Name:                            _wcsicmp
+            Function
+                Name:                            _adjust_fdiv
+            Function
+                Name:                            _initterm
+            Function
+                Name:                            ??1type_info@@UAE@XZ
+            Function
+                Name:                            ??3@YAXPAX@Z
+            Function
+                Name:                            realloc
+            Function
+                Name:                            strncmp
+            Function
+                Name:                            _local_unwind2
+            Function
+                Name:                            strstr
+            Function
+                Name:                            wcscpy
+            Function
+                Name:                            wcslen
+            Function
+                Name:                            wcsncat
+            Function
+                Name:                            strlen
+            Function
+                Name:                            strncpy
+            Function
+                Name:                            strcmp
+            Function
+                Name:                            memcmp
+            Function
+                Name:                            malloc
+            Function
+                Name:                            free
+            Function
+                Name:                            memcpy
+            Function
+                Name:                            _CxxThrowException
+            Function
+                Name:                            __CxxFrameHandler
+            Function
+                Name:                            memset
+            Function
+                Name:                            _snwprintf
+    Library
+        Name:                            KERNEL32.dll
+        Functions
+            Function
+                Name:                            VirtualFreeEx
+            Function
+                Name:                            CreateMutexA
+            Function
+                Name:                            WideCharToMultiByte
+            Function
+                Name:                            MultiByteToWideChar
+            Function
+                Name:                            SetFilePointer
+            Function
+                Name:                            GetFileSize
+            Function
+                Name:                            CreateFileMappingA
+            Function
+                Name:                            MapViewOfFile
+            Function
+                Name:                            LocalFree
+            Function
+                Name:                            LocalAlloc
+            Function
+                Name:                            GetEnvironmentVariableW
+            Function
+                Name:                            CreateFileW
+            Function
+                Name:                            lstrcpyA
+            Function
+                Name:                            VirtualAlloc
+            Function
+                Name:                            ReleaseMutex
+            Function
+                Name:                            VirtualFree
+            Function
+                Name:                            OpenMutexW
+            Function
+                Name:                            SetLastError
+            Function
+                Name:                            WaitForSingleObject
+            Function
+                Name:                            LoadLibraryExA
+            Function
+                Name:                            GetVersionExA
+            Function
+                Name:                            IsBadReadPtr
+            Function
+                Name:                            LoadLibraryA
+            Function
+                Name:                            GetVersion
+            Function
+                Name:                            CreateRemoteThread
+            Function
+                Name:                            GetModuleHandleA
+            Function
+                Name:                            GetProcAddress
+            Function
+                Name:                            FreeLibrary
+            Function
+                Name:                            VirtualAllocEx
+            Function
+                Name:                            VirtualProtectEx
+            Function
+                Name:                            WriteProcessMemory
+            Function
+                Name:                            WaitForSingleObjectEx
+            Function
+                Name:                            DisableThreadLibraryCalls
+            Function
+                Name:                            CloseHandle
+            Function
+                Name:                            DisconnectNamedPipe
+            Function
+                Name:                            CreateNamedPipeW
+            Function
+                Name:                            GetSystemTime
+            Function
+                Name:                            OpenProcess
+            Function
+                Name:                            GetLastError
+            Function
+                Name:                            GetExitCodeThread
+            Function
+                Name:                            ReadFile
+            Function
+                Name:                            ConnectNamedPipe
+            Function
+                Name:                            LoadLibraryW
+    Library
+        Name:                            USER32.dll
+        Functions
+            Function
+                Name:                            DestroyWindow
+            Function
+                Name:                            CreateWindowExW
+            Function
+                Name:                            SetPropA
+            Function
+                Name:                            UnregisterClassA
+            Function
+                Name:                            UnregisterClassW

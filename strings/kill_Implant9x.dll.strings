@@ -1,0 +1,25 @@
+!This program cannot be run in DOS mode.
+_except_handler3
+__CxxFrameHandler
+MSVCRT.dll
+_initterm
+_adjust_fdiv
+DisableThreadLibraryCalls
+TerminateProcess
+GetLastError
+OpenProcess
+CloseHandle
+CreateMutexA
+WaitForSingleObject
+ReleaseMutex
+KERNEL32.dll
+RegCloseKey
+ADVAPI32.dll
+GetProcAddress
+GetModuleHandleA
+1'151:1?1D1O1\1f1{1
+2:2@2O2c2u2
+363T3]3f3o3x3
+474=4U4q4
+5%585H5Q5
+P0T0`0h0l0

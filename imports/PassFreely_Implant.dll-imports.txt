@@ -1,0 +1,143 @@
+Imported functions
+    Library
+        Name:                            KERNEL32.dll
+        Functions
+            Function
+                Name:                            CloseHandle
+            Function
+                Name:                            OpenProcess
+            Function
+                Name:                            CreateMutexW
+            Function
+                Name:                            DisableThreadLibraryCalls
+            Function
+                Name:                            ReadFile
+            Function
+                Name:                            SetFilePointer
+            Function
+                Name:                            GetFileSize
+            Function
+                Name:                            CreateFileA
+            Function
+                Name:                            FindFirstFileA
+            Function
+                Name:                            MultiByteToWideChar
+            Function
+                Name:                            WriteProcessMemory
+            Function
+                Name:                            ReadProcessMemory
+            Function
+                Name:                            VirtualProtectEx
+            Function
+                Name:                            GetProcAddress
+            Function
+                Name:                            GetModuleHandleA
+            Function
+                Name:                            GetVersion
+            Function
+                Name:                            GetLastError
+            Function
+                Name:                            VirtualFree
+            Function
+                Name:                            ReleaseMutex
+            Function
+                Name:                            VirtualAlloc
+            Function
+                Name:                            WaitForSingleObject
+            Function
+                Name:                            SetLastError
+            Function
+                Name:                            OpenMutexW
+            Function
+                Name:                            GetVersionExA
+            Function
+                Name:                            LoadLibraryExA
+            Function
+                Name:                            LoadLibraryA
+            Function
+                Name:                            IsBadReadPtr
+            Function
+                Name:                            FreeLibrary
+            Function
+                Name:                            LocalAlloc
+            Function
+                Name:                            CreateFileW
+            Function
+                Name:                            GetEnvironmentVariableW
+            Function
+                Name:                            lstrcpyA
+            Function
+                Name:                            LocalFree
+            Function
+                Name:                            WideCharToMultiByte
+            Function
+                Name:                            CreateMutexA
+    Library
+        Name:                            USER32.dll
+        Functions
+            Function
+                Name:                            SetPropA
+            Function
+                Name:                            UnregisterClassW
+            Function
+                Name:                            UnregisterClassA
+            Function
+                Name:                            CreateWindowExW
+            Function
+                Name:                            DestroyWindow
+    Library
+        Name:                            ADVAPI32.dll
+        Functions
+            Function
+                Name:                            RegOpenKeyExA
+            Function
+                Name:                            RegQueryValueExA
+            Function
+                Name:                            RegCloseKey
+            Function
+                Name:                            InitializeSecurityDescriptor
+    Library
+        Name:                            MSVCRT.dll
+        Functions
+            Function
+                Name:                            strcpy
+            Function
+                Name:                            _wcsicmp
+            Function
+                Name:                            _stricmp
+            Function
+                Name:                            __CxxFrameHandler
+            Function
+                Name:                            _local_unwind2
+            Function
+                Name:                            strncpy
+            Function
+                Name:                            _snprintf
+            Function
+                Name:                            strncat
+            Function
+                Name:                            free
+            Function
+                Name:                            wcsncpy
+            Function
+                Name:                            malloc
+            Function
+                Name:                            realloc
+            Function
+                Name:                            memset
+            Function
+                Name:                            strcmp
+            Function
+                Name:                            wcscpy
+            Function
+                Name:                            wcsncat
+            Function
+                Name:                            wcslen
+            Function
+                Name:                            strstr
+            Function
+                Name:                            strncmp
+            Function
+                Name:                            memcpy
+            Function
+                Name:                            strlen

@@ -1,0 +1,74 @@
+Imported functions
+    Library
+        Name:                            MSVCRT.dll
+        Functions
+            Function
+                Name:                            _adjust_fdiv
+            Function
+                Name:                            malloc
+            Function
+                Name:                            _initterm
+            Function
+                Name:                            free
+            Function
+                Name:                            memcpy
+            Function
+                Name:                            strlen
+            Function
+                Name:                            wcslen
+            Function
+                Name:                            strcpy
+            Function
+                Name:                            ??3@YAXPAX@Z
+            Function
+                Name:                            ??2@YAPAXI@Z
+            Function
+                Name:                            _local_unwind2
+            Function
+                Name:                            __CxxFrameHandler
+            Function
+                Name:                            memset
+    Library
+        Name:                            KERNEL32.dll
+        Functions
+            Function
+                Name:                            GetProcAddress
+            Function
+                Name:                            SetLastError
+            Function
+                Name:                            CreateFileA
+            Function
+                Name:                            GetFileSize
+            Function
+                Name:                            GetModuleHandleA
+            Function
+                Name:                            DisableThreadLibraryCalls
+            Function
+                Name:                            GetCurrentProcessId
+            Function
+                Name:                            Module32Next
+            Function
+                Name:                            Module32First
+            Function
+                Name:                            GetLastError
+            Function
+                Name:                            CreateToolhelp32Snapshot
+            Function
+                Name:                            MultiByteToWideChar
+            Function
+                Name:                            WideCharToMultiByte
+            Function
+                Name:                            CloseHandle
+            Function
+                Name:                            CreateMutexA
+            Function
+                Name:                            WaitForSingleObject
+            Function
+                Name:                            ReleaseMutex
+            Function
+                Name:                            ReadFile
+    Library
+        Name:                            ADVAPI32.dll
+        Functions
+            Function
+                Name:                            RegCloseKey

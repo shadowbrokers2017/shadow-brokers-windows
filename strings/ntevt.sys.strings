@@ -1,0 +1,352 @@
+!This program cannot be run in DOS mode.
+SVWhDdk 
+90tzShDdk j
+E 9E$w%Sj
+u3hDdk SP
+t'hNonePj
+(hNoneWj
+(hNoneWj
+t8hNoneSP
+VWhDdk 3
+(hDdk Pj
+QSVWhTte j
+`SVWj$hH`
+WSj0WWWh
+WSjhWWWh
+t;It"IuMf%d
+t{ShDdk j
+Ddk Sj$P
+sShDdk jHW
+u*WhDdk j
+tShDdk j
+tZhDdk j
+hDdk j0V
+F hDdk j
+Ddk Sj4VVVf
+uAShDdk h`
+hDdk j"j
+t:hDdk @Pj
+Ddk Wj S
+hDdk @Pj
+hDdk @Pj
+QSVWhDdk h
+Ddk Sj0VV
+SVhDdk j*W
+QhDdk j(QQQP
+SVhDdk 3
+ulhDdk j
+ }[hDdk 
+tmHt7Ht HHusf
+f9~"u!WW
+VhTqIij4S
+9~$u"hTqIi
+t^ItQIt;It*It
+t^ItQIt;It*It
+0123456789
+c:\ntevt.pdb
+(Cmbf"%JcU
+uAhSeAlj
+UWhSeTsRj
+@hPpUc@Pj
+ntevt.sys
+_RawEntry@4
+_except_handler3
+ExInterlockedPushEntrySList
+ExAllocatePoolWithTag
+ExFreePoolWithTag
+KeGetCurrentThread
+RtlUnicodeStringToAnsiString
+MmIsAddressValid
+RtlInitUnicodeString
+RtlCompareMemory
+KefAcquireSpinLockAtDpcLevel
+KefReleaseSpinLockFromDpcLevel
+IoGetDriverObjectExtension
+ObfDereferenceObject
+IoGetDeviceObjectPointer
+ZwEnumerateKey
+ZwOpenKey
+ExInterlockedPopEntrySList
+MmMapLockedPagesSpecifyCache
+KeSetEvent
+IoFreeMdl
+MmUnlockPages
+IoReleaseCancelSpinLock
+MmProbeAndLockPages
+IoAllocateMdl
+MmBuildMdlForNonPagedPool
+PsGetCurrentProcessId
+ObReferenceObjectByHandle
+IoRegisterBootDriverReinitialization
+RtlCompareUnicodeString
+_strnicmp
+ZwQuerySystemInformation
+PsGetVersion
+ExDeleteNPagedLookasideList
+ExDeleteResourceLite
+KeLeaveCriticalRegion
+ExReleaseResourceLite
+ExAcquireResourceExclusiveLite
+KeEnterCriticalRegion
+KeDelayExecutionThread
+ZwQueryValueKey
+ZwUnmapViewOfSection
+ZwMapViewOfSection
+ZwCreateSection
+ZwCreateFile
+ExInitializeResourceLite
+ExInitializeNPagedLookasideList
+RtlFreeUnicodeString
+RtlAnsiStringToUnicodeString
+RtlInitAnsiString
+KeWaitForSingleObject
+KeReleaseMutex
+ZwSetValueKey
+RtlDeleteRegistryValue
+IoDeleteDevice
+IoDeleteSymbolicLink
+IofCompleteRequest
+KeWaitForMultipleObjects
+PsTerminateSystemThread
+PsThreadType
+PsCreateSystemThread
+IoCreateSymbolicLink
+KeClearEvent
+KeInitializeEvent
+RtlCopyUnicodeString
+KeInitializeMutex
+RtlUnicodeStringToInteger
+RtlQueryRegistryValues
+ZwReadFile
+ntoskrnl.exe
+MmGetSystemRoutineAddress
+ZwSetSecurityObject
+ObOpenObjectByPointer
+IoDeviceObjectType
+IoCreateDevice
+RtlGetDaclSecurityDescriptor
+RtlGetSaclSecurityDescriptor
+RtlGetGroupSecurityDescriptor
+RtlGetOwnerSecurityDescriptor
+_snwprintf
+RtlLengthSecurityDescriptor
+SeCaptureSecurityDescriptor
+SeExports
+IoIsWdmVersionAvailable
+_wcsnicmp
+RtlAddAccessAllowedAce
+RtlLengthSid
+RtlAbsoluteToSelfRelativeSD
+RtlSetDaclSecurityDescriptor
+RtlCreateSecurityDescriptor
+ZwCreateKey
+KeBugCheckEx
+ObOpenObjectByName
+IoDriverObjectType
+ObMakeTemporaryObject
+ObInsertObject
+ObfReferenceObject
+ObCreateObject
+InterlockedCompareExchange
+KfReleaseSpinLock
+KfAcquireSpinLock
+KfLowerIrql
+KfRaiseIrql
+KeGetCurrentIrql
+RtlFreeAnsiString
+MmHighestUserAddress
+KeInsertQueueDpc
+KeSetTargetProcessorDpc
+KeInitializeDpc
+KeQueryActiveProcessors
+RtlImageNtHeader
+RtlImageDirectoryEntryToData
+RtlLookupElementGenericTable
+KeQueryInterruptTime
+RtlInitializeGenericTable
+RtlDeleteElementGenericTable
+RtlInsertElementGenericTable
+KeQuerySystemTime
+swprintf
+RtlEnumerateGenericTableWithoutSplaying
+RtlInitString
+KeTickCount
+ExfInterlockedRemoveHeadList
+ExfInterlockedInsertTailList
+ExfInterlockedInsertHeadList
+ExEventObjectType
+KeRaiseIrqlToDpcLevel
+152>2F2L2T2t2z2
+5#5+51565<5H5P5
+:":&:0:::z:
+<<<B<K<s<
+434?4E4K4Q4
+8 8)808:8D8~8
+=&>+>5>;>@>Q>[>a>;?T?Y?c?i?o?t?y?
+2 2'2/262
+9)9/989^9c9m9r9w9}9
+<S<\<f<l<r<w<
+=+=7===F=
+=E>J>S>]>i>o>
+0"0+050>0D0J0P0Y0R1`1e1o1z1
+3&3/393@3F3L3T3Z3
+4F4S4X4b4m4w4}4
+4$71767A7K7W7]7n7{7
+9"989A9K9R9X9^9d9l9
+2 2;2X2|2
+=7>@>S>j>~>
+121G1X1]1e1k1p1|1
+828;8E8L8R8X8`8f8
+9%9*949?9I9O9b9k9u9|9
+;);.;8;C;M;S;i;
+=(=1=;=D=J=P=V=_=
+>$>7>@>J>S>Y>_>e>n>
+'080=0K0
+6&60696?6E6K6T6
+858F8K8d8t8
+6!6+686O6U6\6k6
+8 8I8R8`8e8j8
+9#9(9-9H9N9S9]9j9s9
+:&:/:=:B:G:b:h:m:w:
+;!;+;8;A;V;];g;t;};
+<(<.<3<=<J<S<a<f<k<
+="='=B=H=M=W=d=m={=
+> >)>7><>A>\>b>g>q>~>
+?%?2?;?P?W?a?n?w?
+0"0+0@0G0Q0`0e0k0p0}0
+1=1L1R1[1a1h1s1
+:;;3<I<]<
+5+50595A5I5T5[5`5j5r5
+<"<(<0<6<
+<-=I=T=v=
+>">+>5>>>D>J>P>j>
+2)3.393C3O3U3h3q3{3
+:&:-:3:9:A:G:g:
+0(00060<0B0I0N0T0Y0`0g0n0w0
+0"1(111U1b1g1o1
+2I2X2]2f2r2{2
+373N3X3^3d3q3
+5.5@5E5o5t5
+6#6,6=6B6L6Q6W6]6
+7.777@7F7L7U7f7k7u7z7
+8!8+80868Y8
+9F9T9Z9e9k9q9z9
+:4:::^:m:
+;0;9;C;J;P;V;[;a;g;
+>=>B>H>S>Y>`>i>}>
+?7?=?F?]?b?n?s?
+0!0G0\0b0m0r0z0
+1 1&11181B1X1b1
+2"2(2-292B2I2O2U2_2m2w2
+383V3^3f3k3q3w3
+434;4L4T4d4j4p4}4
+5'525D5J5b5k5v5
+6!6,616:6@6F6R6Y6b6h6t6
+9$9*959;9A9J9c9i9x9
+:(:.:7:P:d:h:l:p:t:x:|:
+;!;';-;3;9;?;E;J;O;[;a;f;k;p;|;
+;#<(<3<8<=<G<R<^<g<n<t<z<
+="=+=4=?=E=T=Z=t=
+>/>5>:>?>E>K>U>v>|>
+?!?+?<?E?K?Z?`?j?w?}?
+858:8E8J8R8W8k8q8z8
+:*;7;?;j;p;v;|;
+7-7;7A7K7Y7d7j7{7
+9";';@;x;
+='>0>=>X>
+1,10262<2B2H2O2
+4+424o4t4~4
+5!5)5/545@5I5O5W5]5
+8$8:8P8r8
+9-929<9B9H9M9R9{9
+<)<8<]<q<
+=#=)=1=L=W=m=}=
+0$0*000K0P0X0]0j0
+3#32393C3
+6I6[6a6v6
+7&7,7;7T7
+:3:::G:V:
+:2;\;f;l;q;w;
+6.7X7r7{7
+8!8)8/8B8H8Q8c8h8p8v8~8
+9/9<9D9I9O9
+9):3:8:G:M:S:j:p:y:
+;!;&;,;V;\;e;p;
+;C<H<R<W<q<|<
+0!0,080I0V0h0m0x0}0
+1"151;1A1\1f1x1
+8-949^9q9
+6#6O6T6^6d6l6
+8*878O8`8k8q8z8
+8Z9_9i9q9w9
+;$;7;=;L;
+< <&<,<2<H<N<X<g<
+=!=&=0=8=>=c=i=r=
+>%>U>y>$?E?t?y?
+4#42484M4U4[4|4
+456;6E6J6S6t6z6
+;$;*;G;l;.<><
+=Z=_=i=q=w=
+1f162M2R2\2d2j2{2
+5J5O5W5_5e5v5|5
+7 7&777F7L7n7}7
+8D8I8S8[8a8y8
+9 989>9D9r9
+091L1l1|1
+5$5,51565M5U5_5
+6O6U6^6w6
+9 9&9,919x9
+:i;n;x;~;
+<9<B<V<\<d<
+4E4J4R4W4\4b4v4
+5 5%5/54595?5
+6$7,727;7R7	8
+9"=,=2=Q=X=r=
+8%999A9W9s9z9
+;!<0<8<A<R<w<K=f=
+1/151=1?2D2L2Q2V2\2
+747=7T7Z7i7
+4!4(40454;4
+8B9G9M9S9f9k9u9}9
+0%0+010V0_0i0o0
+4"4v4 657c9
+=9>?>E>M>\>f>k>q>&?
+0&0>0U0_0e0
+61777=7C7
+: :*:5:;:
+;#;,;1;D;M;
+<?<G<a<p<w<
+<&=@=P=v=
+?@?F?O?b?g?q?w?
+0$0:0?0G0P0V0
+5'53585>5
+6A7F7N7S7]7
+2 3%3J3l3
+6 6l6s6}6
+7#7(7.7q7~7
+7;8C8d8k8y8}8_9j9u9
+2!2%2)2-2125292=2A2E2I2M2Q2U2Y2]2a2e2i2m2q2u2y2}2
+3!3%3)3-3135393=3A3E3P3V3
+8 8$8,80888<8D8H8
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1
+0)01050:0L0R0a0p0
+7/7K7Z7u7
+IoValidateDeviceIoControlAccess
+IoCreateDeviceSecure
+D:P(A;;GA;;;SY)
+D:P(A;;GA;;;SY)(A;;GA;;;BA)
+D:P(A;;GA;;;SY)(A;;GRGX;;;BA)
+D:P(A;;GA;;;SY)(A;;GRGWGX;;;BA)(A;;GR;;;WD)
+D:P(A;;GA;;;SY)(A;;GRGWGX;;;BA)(A;;GR;;;WD)(A;;GR;;;RC)
+D:P(A;;GA;;;SY)(A;;GRGWGX;;;BA)(A;;GRGW;;;WD)(A;;GR;;;RC)
+D:P(A;;GA;;;SY)(A;;GRGWGX;;;BA)(A;;GRGWGX;;;WD)(A;;GRGWGX;;;RC)
+{%08X-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}
+\Registry\Machine\System\CurrentControlSet\Control\Class
+Security
+Properties
+Exclusive
+DeviceCharacteristics
+DeviceType
+NoUseClass
+NoDisplayClass
+Class

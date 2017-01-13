@@ -1,0 +1,211 @@
+Imported functions
+    Library
+        Name:                            KERNEL32.dll
+        Functions
+            Function
+                Name:                            LockResource
+            Function
+                Name:                            SizeofResource
+            Function
+                Name:                            LoadResource
+            Function
+                Name:                            FindResourceA
+            Function
+                Name:                            GetProcAddress
+            Function
+                Name:                            GetModuleHandleA
+            Function
+                Name:                            GetModuleFileNameW
+            Function
+                Name:                            GetModuleHandleW
+            Function
+                Name:                            CreateFileMappingW
+            Function
+                Name:                            GetLastError
+            Function
+                Name:                            GetCurrentProcess
+            Function
+                Name:                            LoadLibraryExA
+            Function
+                Name:                            GetVersionExA
+            Function
+                Name:                            IsBadReadPtr
+            Function
+                Name:                            LocalAlloc
+            Function
+                Name:                            GetSystemDirectoryW
+            Function
+                Name:                            LoadLibraryA
+            Function
+                Name:                            VirtualAlloc
+            Function
+                Name:                            VirtualLock
+            Function
+                Name:                            VirtualUnlock
+            Function
+                Name:                            VirtualFree
+            Function
+                Name:                            GetVersion
+            Function
+                Name:                            LoadLibraryW
+            Function
+                Name:                            GetVersionExW
+            Function
+                Name:                            MulDiv
+            Function
+                Name:                            FreeLibrary
+            Function
+                Name:                            OpenMutexW
+            Function
+                Name:                            CreateMutexW
+            Function
+                Name:                            GetSystemDirectoryA
+            Function
+                Name:                            CreateFileMappingA
+            Function
+                Name:                            MapViewOfFile
+            Function
+                Name:                            UnmapViewOfFile
+            Function
+                Name:                            CreateFileA
+            Function
+                Name:                            GetCurrentDirectoryW
+            Function
+                Name:                            DeviceIoControl
+            Function
+                Name:                            GetEnvironmentVariableW
+            Function
+                Name:                            GetStartupInfoA
+            Function
+                Name:                            GetCurrentProcessId
+            Function
+                Name:                            GetCurrentThreadId
+            Function
+                Name:                            SetLastError
+            Function
+                Name:                            ReleaseMutex
+            Function
+                Name:                            CloseHandle
+            Function
+                Name:                            Sleep
+            Function
+                Name:                            WaitForSingleObject
+            Function
+                Name:                            CreateMutexA
+            Function
+                Name:                            GetFileSize
+    Library
+        Name:                            USER32.dll
+        Functions
+            Function
+                Name:                            wsprintfW
+            Function
+                Name:                            DestroyWindow
+            Function
+                Name:                            UnregisterClassW
+            Function
+                Name:                            SetPropA
+            Function
+                Name:                            CreateWindowExW
+    Library
+        Name:                            MSVCRT.dll
+        Functions
+            Function
+                Name:                            _controlfp
+            Function
+                Name:                            __set_app_type
+            Function
+                Name:                            __p__fmode
+            Function
+                Name:                            __p__commode
+            Function
+                Name:                            _adjust_fdiv
+            Function
+                Name:                            strncat
+            Function
+                Name:                            strncpy
+            Function
+                Name:                            _local_unwind2
+            Function
+                Name:                            __setusermatherr
+            Function
+                Name:                            _initterm
+            Function
+                Name:                            __getmainargs
+            Function
+                Name:                            _acmdln
+            Function
+                Name:                            fseek
+            Function
+                Name:                            fread
+            Function
+                Name:                            _stricmp
+            Function
+                Name:                            _snwprintf
+            Function
+                Name:                            wcsncpy
+            Function
+                Name:                            strcpy
+            Function
+                Name:                            fclose
+            Function
+                Name:                            _wfopen
+            Function
+                Name:                            wcsncat
+            Function
+                Name:                            strcmp
+            Function
+                Name:                            strncmp
+            Function
+                Name:                            exit
+            Function
+                Name:                            _XcptFilter
+            Function
+                Name:                            _exit
+            Function
+                Name:                            sprintf
+            Function
+                Name:                            ??2@YAPAXI@Z
+            Function
+                Name:                            strlen
+            Function
+                Name:                            ??3@YAXPAX@Z
+            Function
+                Name:                            __p___argc
+            Function
+                Name:                            __p___argv
+            Function
+                Name:                            memcpy
+            Function
+                Name:                            malloc
+            Function
+                Name:                            free
+            Function
+                Name:                            memset
+            Function
+                Name:                            towupper
+            Function
+                Name:                            wcscpy
+            Function
+                Name:                            wcscat
+            Function
+                Name:                            wcslen
+            Function
+                Name:                            __CxxFrameHandler
+            Function
+                Name:                            _get_osfhandle
+            Function
+                Name:                            memmove
+            Function
+                Name:                            calloc
+    Library
+        Name:                            ADVAPI32.dll
+        Functions
+            Function
+                Name:                            RegOpenKeyExA
+            Function
+                Name:                            RegQueryValueExW
+            Function
+                Name:                            RegCloseKey
+            Function
+                Name:                            InitializeSecurityDescriptor

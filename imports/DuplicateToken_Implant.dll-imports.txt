@@ -1,0 +1,151 @@
+Imported functions
+    Library
+        Name:                            MSVCRT.dll
+        Functions
+            Function
+                Name:                            _vsnwprintf
+            Function
+                Name:                            _adjust_fdiv
+            Function
+                Name:                            malloc
+            Function
+                Name:                            _initterm
+            Function
+                Name:                            free
+            Function
+                Name:                            ??1type_info@@UAE@XZ
+            Function
+                Name:                            ??3@YAXPAX@Z
+            Function
+                Name:                            memcpy
+            Function
+                Name:                            strncmp
+            Function
+                Name:                            realloc
+            Function
+                Name:                            _local_unwind2
+            Function
+                Name:                            strstr
+            Function
+                Name:                            wcscpy
+            Function
+                Name:                            wcslen
+            Function
+                Name:                            wcsncat
+            Function
+                Name:                            strcmp
+            Function
+                Name:                            strlen
+            Function
+                Name:                            _CxxThrowException
+            Function
+                Name:                            memset
+            Function
+                Name:                            __CxxFrameHandler
+            Function
+                Name:                            _stricmp
+    Library
+        Name:                            KERNEL32.dll
+        Functions
+            Function
+                Name:                            CreateMutexA
+            Function
+                Name:                            WideCharToMultiByte
+            Function
+                Name:                            MultiByteToWideChar
+            Function
+                Name:                            SetFilePointer
+            Function
+                Name:                            ReadFile
+            Function
+                Name:                            GetFileSize
+            Function
+                Name:                            CreateFileMappingA
+            Function
+                Name:                            MapViewOfFile
+            Function
+                Name:                            LocalFree
+            Function
+                Name:                            LoadLibraryW
+            Function
+                Name:                            LocalAlloc
+            Function
+                Name:                            GetEnvironmentVariableW
+            Function
+                Name:                            CreateFileW
+            Function
+                Name:                            lstrcpyA
+            Function
+                Name:                            VirtualAlloc
+            Function
+                Name:                            DisableThreadLibraryCalls
+            Function
+                Name:                            GetLastError
+            Function
+                Name:                            OpenProcess
+            Function
+                Name:                            GetCurrentProcess
+            Function
+                Name:                            Sleep
+            Function
+                Name:                            GetProcAddress
+            Function
+                Name:                            GetModuleHandleA
+            Function
+                Name:                            FreeLibrary
+            Function
+                Name:                            LoadLibraryA
+            Function
+                Name:                            IsBadReadPtr
+            Function
+                Name:                            GetVersion
+            Function
+                Name:                            GetVersionExA
+            Function
+                Name:                            LoadLibraryExA
+            Function
+                Name:                            CloseHandle
+            Function
+                Name:                            WaitForSingleObject
+            Function
+                Name:                            SetLastError
+            Function
+                Name:                            ReleaseMutex
+            Function
+                Name:                            VirtualFree
+            Function
+                Name:                            OpenMutexW
+    Library
+        Name:                            USER32.dll
+        Functions
+            Function
+                Name:                            UnregisterClassW
+            Function
+                Name:                            UnregisterClassA
+            Function
+                Name:                            SetPropA
+            Function
+                Name:                            CreateWindowExW
+            Function
+                Name:                            DestroyWindow
+    Library
+        Name:                            ADVAPI32.dll
+        Functions
+            Function
+                Name:                            RevertToSelf
+            Function
+                Name:                            OpenProcessToken
+            Function
+                Name:                            LookupAccountSidW
+            Function
+                Name:                            GetTokenInformation
+            Function
+                Name:                            AdjustTokenPrivileges
+            Function
+                Name:                            ImpersonateLoggedOnUser
+            Function
+                Name:                            LookupPrivilegeValueW
+            Function
+                Name:                            DuplicateTokenEx
+            Function
+                Name:                            RegCloseKey

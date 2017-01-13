@@ -1,0 +1,281 @@
+Imported functions
+    Library
+        Name:                            ntoskrnl.exe
+        Functions
+            Function
+                Name:                            MmIsAddressValid
+            Function
+                Name:                            RtlInitUnicodeString
+            Function
+                Name:                            RtlCompareMemory
+            Function
+                Name:                            memcpy
+            Function
+                Name:                            sprintf
+            Function
+                Name:                            KefAcquireSpinLockAtDpcLevel
+            Function
+                Name:                            KefReleaseSpinLockFromDpcLevel
+            Function
+                Name:                            IoGetDriverObjectExtension
+            Function
+                Name:                            ObfDereferenceObject
+            Function
+                Name:                            IoGetDeviceObjectPointer
+            Function
+                Name:                            ZwClose
+            Function
+                Name:                            ZwEnumerateKey
+            Function
+                Name:                            ZwOpenKey
+            Function
+                Name:                            ExInterlockedPopEntrySList
+            Function
+                Name:                            MmMapLockedPagesSpecifyCache
+            Function
+                Name:                            KeSetEvent
+            Function
+                Name:                            IoFreeMdl
+            Function
+                Name:                            MmUnlockPages
+            Function
+                Name:                            IoReleaseCancelSpinLock
+            Function
+                Name:                            MmProbeAndLockPages
+            Function
+                Name:                            IoAllocateMdl
+            Function
+                Name:                            MmBuildMdlForNonPagedPool
+            Function
+                Name:                            PsGetCurrentProcessId
+            Function
+                Name:                            ObReferenceObjectByHandle
+            Function
+                Name:                            IoRegisterBootDriverReinitialization
+            Function
+                Name:                            RtlCompareUnicodeString
+            Function
+                Name:                            _strnicmp
+            Function
+                Name:                            ZwQuerySystemInformation
+            Function
+                Name:                            PsGetVersion
+            Function
+                Name:                            ExDeleteNPagedLookasideList
+            Function
+                Name:                            ExDeleteResourceLite
+            Function
+                Name:                            KeLeaveCriticalRegion
+            Function
+                Name:                            ExReleaseResourceLite
+            Function
+                Name:                            ExAcquireResourceExclusiveLite
+            Function
+                Name:                            KeEnterCriticalRegion
+            Function
+                Name:                            KeDelayExecutionThread
+            Function
+                Name:                            ZwQueryValueKey
+            Function
+                Name:                            strncmp
+            Function
+                Name:                            ZwUnmapViewOfSection
+            Function
+                Name:                            ZwMapViewOfSection
+            Function
+                Name:                            ZwCreateSection
+            Function
+                Name:                            ZwCreateFile
+            Function
+                Name:                            ExInitializeResourceLite
+            Function
+                Name:                            ExInitializeNPagedLookasideList
+            Function
+                Name:                            RtlFreeUnicodeString
+            Function
+                Name:                            RtlAnsiStringToUnicodeString
+            Function
+                Name:                            RtlInitAnsiString
+            Function
+                Name:                            KeWaitForSingleObject
+            Function
+                Name:                            KeReleaseMutex
+            Function
+                Name:                            RtlUnicodeStringToAnsiString
+            Function
+                Name:                            ZwSetValueKey
+            Function
+                Name:                            RtlDeleteRegistryValue
+            Function
+                Name:                            IoDeleteDevice
+            Function
+                Name:                            IoDeleteSymbolicLink
+            Function
+                Name:                            IofCompleteRequest
+            Function
+                Name:                            KeWaitForMultipleObjects
+            Function
+                Name:                            PsTerminateSystemThread
+            Function
+                Name:                            PsThreadType
+            Function
+                Name:                            PsCreateSystemThread
+            Function
+                Name:                            IoCreateSymbolicLink
+            Function
+                Name:                            KeClearEvent
+            Function
+                Name:                            KeInitializeEvent
+            Function
+                Name:                            RtlCopyUnicodeString
+            Function
+                Name:                            KeInitializeMutex
+            Function
+                Name:                            RtlUnicodeStringToInteger
+            Function
+                Name:                            wcschr
+            Function
+                Name:                            RtlQueryRegistryValues
+            Function
+                Name:                            ZwReadFile
+            Function
+                Name:                            _allmul
+            Function
+                Name:                            MmGetSystemRoutineAddress
+            Function
+                Name:                            ZwSetSecurityObject
+            Function
+                Name:                            ObOpenObjectByPointer
+            Function
+                Name:                            IoDeviceObjectType
+            Function
+                Name:                            IoCreateDevice
+            Function
+                Name:                            RtlGetDaclSecurityDescriptor
+            Function
+                Name:                            RtlGetSaclSecurityDescriptor
+            Function
+                Name:                            RtlGetGroupSecurityDescriptor
+            Function
+                Name:                            RtlGetOwnerSecurityDescriptor
+            Function
+                Name:                            _snwprintf
+            Function
+                Name:                            RtlLengthSecurityDescriptor
+            Function
+                Name:                            SeCaptureSecurityDescriptor
+            Function
+                Name:                            SeExports
+            Function
+                Name:                            IoIsWdmVersionAvailable
+            Function
+                Name:                            _wcsnicmp
+            Function
+                Name:                            RtlAddAccessAllowedAce
+            Function
+                Name:                            RtlLengthSid
+            Function
+                Name:                            RtlAbsoluteToSelfRelativeSD
+            Function
+                Name:                            RtlSetDaclSecurityDescriptor
+            Function
+                Name:                            RtlCreateSecurityDescriptor
+            Function
+                Name:                            ZwCreateKey
+            Function
+                Name:                            KeBugCheckEx
+            Function
+                Name:                            ObOpenObjectByName
+            Function
+                Name:                            IoDriverObjectType
+            Function
+                Name:                            ObMakeTemporaryObject
+            Function
+                Name:                            ObInsertObject
+            Function
+                Name:                            ObfReferenceObject
+            Function
+                Name:                            ObCreateObject
+            Function
+                Name:                            InterlockedCompareExchange
+            Function
+                Name:                            wcslen
+            Function
+                Name:                            KeGetCurrentThread
+            Function
+                Name:                            ExFreePoolWithTag
+            Function
+                Name:                            memset
+            Function
+                Name:                            ExAllocatePoolWithTag
+            Function
+                Name:                            ExInterlockedPushEntrySList
+            Function
+                Name:                            strrchr
+            Function
+                Name:                            RtlFreeAnsiString
+            Function
+                Name:                            MmHighestUserAddress
+            Function
+                Name:                            strncpy
+            Function
+                Name:                            KeInsertQueueDpc
+            Function
+                Name:                            KeSetTargetProcessorDpc
+            Function
+                Name:                            KeInitializeDpc
+            Function
+                Name:                            KeQueryActiveProcessors
+            Function
+                Name:                            RtlImageNtHeader
+            Function
+                Name:                            RtlImageDirectoryEntryToData
+            Function
+                Name:                            RtlLookupElementGenericTable
+            Function
+                Name:                            KeQueryInterruptTime
+            Function
+                Name:                            RtlInitializeGenericTable
+            Function
+                Name:                            RtlDeleteElementGenericTable
+            Function
+                Name:                            RtlInsertElementGenericTable
+            Function
+                Name:                            KeQuerySystemTime
+            Function
+                Name:                            swprintf
+            Function
+                Name:                            RtlEnumerateGenericTableWithoutSplaying
+            Function
+                Name:                            strchr
+            Function
+                Name:                            RtlInitString
+            Function
+                Name:                            KeTickCount
+            Function
+                Name:                            ExfInterlockedRemoveHeadList
+            Function
+                Name:                            ExfInterlockedInsertTailList
+            Function
+                Name:                            ExfInterlockedInsertHeadList
+            Function
+                Name:                            ExEventObjectType
+            Function
+                Name:                            memmove
+            Function
+                Name:                            _except_handler3
+    Library
+        Name:                            HAL.dll
+        Functions
+            Function
+                Name:                            KeRaiseIrqlToDpcLevel
+            Function
+                Name:                            KeGetCurrentIrql
+            Function
+                Name:                            KfRaiseIrql
+            Function
+                Name:                            KfLowerIrql
+            Function
+                Name:                            KfAcquireSpinLock
+            Function
+                Name:                            KfReleaseSpinLock

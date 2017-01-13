@@ -1,0 +1,338 @@
+!This program cannot be run in DOS mode.
+UQPXY]Y[
+t7Ht.Ht%Ht
+t	G;|$$r
+uvSSSSSSSSh
+SSSSSSSSh
+tQHtEHt9Ht1Ht%Ht
+VVVVVVVVh
+%.a9sq4#M7g
+g&jYIL}fc
+X.?UTxfR
+as4n]36$
+P.uD4e%Ss
+^a8hpnA{
+u;IkI!k\F
+<BJ/oOWw
+o[DK\&=m
+9w8"`h'[-R
+v^u9n./-
+NsjU)N3*
+RrLoWDZL
+sSX2UHm+sH
+?2^sqk-al,
+sWw'-_XJR>f
+B~z`pf2%
+av*qj<V1
+^{G\eOQE
+Y=6%+spNY
+)(*X/pg*McD
+AHP|[AYoy=
+.ACvBVi;
+(W5Uec>x
+jCu:vObHJ9;
+o;_U\|(i*
+\!H7"ur3-
+,LN);c	I
+*Nga;,%6
+B$Mrk0:io
+oTN?#'8*/&
+=t9"L9WZ^2W
+@Em7@[l2
+"'OtXxuv
+Bb=tuqW"a
+WG<%95HF
+@^'pOljD
+jT^tey+'
+.Ysh-iR;
+_E	DnA!&
+Mf`F5ht3
+c5(JFn<><
+Fd<r(~p4
+{8W,Z5R"
+F7T\&&88
+&=n=ZRzIm
+8P/%qw	PX
+Z0F=wHfj
+4>hKUKQZ
+>OhkO|`S
+ OjS:ZE~
+yi8c`_^m
+Z"HVq9kK
+PP.GM``f
+l:5IwTml
+mU\mHrn?|-
+t WgtL5}
+nX*"I-Fg
+?IC^FY9o
+03iabn^'L
+AB{FCr{fK
+<i]N'GK8V
+ dPagesSpecifyCache
+MmProbeAndLockPages
+MmUnlockPages
+MmUnmapLockedPages
+ntdll.dll
+ntoskrnl.exe
+ntkrnlpa.exe
+bad allocation
+yF^T]2@D]izIWc2]
+''2]ZEh*2@''izGWE~]''D)/mC+u$''}EG2chcw*''CE~gcFhYSm''tT22]~*9]2hEc~''sD
+u*pS*D*z*Thmc%ch$22c2
+~*gppagpp
+%2EK]2h''
+NtAllocateVirtualMemory
+NtFreeVirtualMemory
+RtlInitUnicodeString
+ntdll.dll
+_except_handler3
+KeGetCurrentIrql
+KeRaiseIrqlToDpcLevel
+KeRaiseIrqlToSynchLevel
+KfRaiseIrql
+RtlImageDirectoryEntryToData
+RtlUnwind
+ntdll.dll
+GetNativeSystemInfo
+IsWow64Process
+NtQuerySystemInformation
+IoAllocateMdl
+IoFreeMdl
+MmBuildMdlForNonPagedPool
+MmMapLockedPagesSpecifyCache
+MmProbeAndLockPages
+MmUnlockPages
+MmUnmapLockedPages
+ntdll.dll
+ntoskrnl.exe
+ntkrnlpa.exe
+GetMenuCheckMarkDimensions
+MenuItemFromPoint
+user32.dll
+_except_handler3
+NtShutdownSystem
+KeAddSystemServiceTable
+KeServiceDescriptorTable
+ntdll.dll
+ntdll.dll
+VirtualProtect
+VirtualAlloc
+GetProcAddress
+VirtualQuery
+GetVersion
+MultiByteToWideChar
+GetLastError
+KERNEL32.dll
+CommandLineToArgvW
+SHELL32.dll
+__CxxFrameHandler
+_vsnwprintf
+msvcrt.dll
+_XcptFilter
+_initterm
+_amsg_exit
+_adjust_fdiv
+__dllonexit
+PathFileExistsW
+SHLWAPI.dll
+RtlUnwind
+_snwprintf
+towupper
+NtSetLowWaitHighEventPair
+NtSetHighEventPair
+NtWaitLowEventPair
+NtCreateEventPair
+NtQuerySystemInformation
+RtlNtStatusToDosError
+_strnicmp
+_stricmp
+GetCurrentDirectoryW
+ExpandEnvironmentStringsW
+GetFullPathNameW
+CreateFileW
+DeviceIoControl
+CloseHandle
+InterlockedExchange
+InterlockedCompareExchange
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+ReleaseSemaphore
+WaitForSingleObject
+CreateSemaphoreW
+SetLastError
+ResumeThread
+SetEvent
+SetThreadContext
+GetThreadContext
+SuspendThread
+CreateEventW
+TerminateThread
+CreateThread
+OpenEventW
+InitializeCriticalSection
+LeaveCriticalSection
+EnterCriticalSection
+DeleteCriticalSection
+SetEnvironmentVariableW
+SetWaitableTimer
+CreateWaitableTimerA
+FreeLibrary
+LoadLibraryA
+LockResource
+SizeofResource
+LoadResource
+FindResourceA
+GetEnvironmentVariableA
+GetModuleHandleA
+CreateMutexA
+ReleaseMutex
+GetSystemDirectoryA
+OpenMutexA
+UnmapViewOfFile
+MapViewOfFile
+CreateFileMappingA
+CreateFileA
+LoadLibraryW
+CreateMutexW
+InterlockedIncrement
+InterlockedDecrement
+VirtualFree
+IsBadReadPtr
+GetVersionExW
+LoadLibraryExA
+VirtualUnlock
+SetProcessWorkingSetSize
+GetProcessWorkingSetSize
+VirtualLock
+CreateWindowExW
+DestroyWindow
+GetSystemMetrics
+USER32.dll
+SetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+ADVAPI32.dll
+??3@YAXPAX@Z
+??2@YAPAXI@Z
+mssld.dll
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+7;]KED<\{OtA}~5F#+rq@xLU9V0_P,)-yY:WSiwc&p*v`=31"GINuX4hk g2'eQ([.|o$J>dsmz?jTbBlH/%CR!f8Za^6Mn
+767>7H7S7i7r7
+8"8(8<8B8O8_8t8~8
+;0;@;F;L;R;X;^;e;l;s;z;
+>'>8>L>T>u>}>
+>3?8?O?o?|?
+000<0k0x0
+7*7B7^7o738\8
+;I;e;w;l<
+ 0%0*0J0P0n0
+5%5+565Y5_5
+6"6+616g6m6y6
+7K7Q7h7p7
+7+808a8u8}8
+849:9I9T9\9l9t9|9
+7#7-737A7h7m7
+;!;:;P;g;
+0B1b1n1z1
+5.666P6X6a6i6r6z6
+8!9/9?9O9
+:3;T;\;D<P<W<h<}<
+2,22292?2I2|2
+2<4O4^4i4
+9%:-:5:	?0?
+;R<e<p<z<
+#0+0B0J0e0m0
+3)3/393E3Z3`3j3o3
+2D4J4W4x4
+585N5d5z5
+5'6E6J6~6
+121G1d1m1
+374A4S4e4o4y4
+ 0$0(0,0004080<0@0D0H0
+2 2(242\2
+3$3(383H3T3X3h3x3
+4$4(484@4D4L4P4\4`4l4p4|4
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5h9l9p9t9x9|9
+9H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+:(;,;0;4;
+2 2$2(2,2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4
+5 5$5(5,5054585
+jjjj
+Kernel32.dll
+#+3;CScs
+!1Aa
+Qpcnzp''sh
+S*%ppagpp
+shsh
+(s:VUs:VU?s:VU?s:VU?s:VU?s:VUs:VUs:VU,
+D]2KEG]h+~g%2EK]2h+Z]~*
+'u]ZEh*2@'}zGWE~]'Dcw*Fz2]'}EG2chcw*'CE~gcFhY%]w]~g]2'u]zp?mEi]Y<2c*]G*Ec~
+'u]ZEh*2@'}zGWE~]'Dcw*Fz2]'}EG2chcw*'CE~gcFhY%]w]~g]2
+sGBsh
+D*z2*
+RizZ]<z*W
+~gEhah@h
+''''k''
+D]2KEG]h
+''kk''shO
+''kk''sh
+''kk''
+%]KEG]
+%z*z
+D@h*]iucc*
+sDADm$}u))ms
+sDADm$}u))ms''D@h*]iN[''%2EK]2h''
+''u]ZEh*2@''}zGWE~]''D@h*]i''tT22]~*tc~*2cpD]*''D]2KEG]h''sh
+''u]ZEh*2@''}zGWE~]''D@h*]i''tT22]~*tc~*2cpD]*''D]2KEG]h''sh''<z2zi]*]2h
+shah@h
+''2]ZEh*2@''izGWE~]''DADm$}''tT22]~*tc~*2cpD]*''D]2KEG]h''sh''<z2zi]*]2h
+''2]ZEh*2@''izGWE~]''D)/mC+u$''}EG2chcw*''CE~gcFhYSm''tT22]~*9]2hEc~''sD
+oE*%]w]~g]2
+m2]~gY}EG2c
++Kzh*
+$D$m
+}G+w]]
+<z~gz
+C]n2cc*
+#zhI]2hX@
+DcIWch
+S]*Fc2XY+hhcGEz*]h
+D@iz~*]G
+}EG2chcw*
+m@I]
+Q2cTI
+$22c2tc~*2cp
+%EhIpz@Szi]
+''$~Ti
+Jah@h
+''u]ZEh*2@''}zGWE~]''D@h*]i''tT22]~*tc~*2cpD]*''D]2KEG]h''
+STATIC
+Kernel32.dll
+#+3;CScs
+!1Aa
+User32.dll
+\??\%s\%s

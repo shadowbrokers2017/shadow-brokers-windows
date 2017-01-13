@@ -1,0 +1,327 @@
+!This program cannot be run in DOS mode.
+Y`8w}tn=N
+Nw}tn=hW
+=\Vmfw;t,=
+87wZtN=N
+DM<w2t&=
+Nwkt_=hW
+Fw2t&=ZfEAt
+=\Vmfw2t&=
+L$XRPhhE
+L$8WQh0E
+L$(WQh$E
+PSQRVWjd
+PSQRVWjd
+dbghelp.dll
+CloseHandle
+OpenProcess
+CreateMutexW
+DisableThreadLibraryCalls
+ReadFile
+SetFilePointer
+GetFileSize
+CreateFileA
+FindFirstFileA
+MultiByteToWideChar
+WriteProcessMemory
+ReadProcessMemory
+VirtualProtectEx
+GetProcAddress
+GetModuleHandleA
+GetVersion
+GetLastError
+VirtualFree
+ReleaseMutex
+VirtualAlloc
+WaitForSingleObject
+SetLastError
+OpenMutexW
+GetVersionExA
+LoadLibraryExA
+LoadLibraryA
+IsBadReadPtr
+FreeLibrary
+LocalAlloc
+CreateFileW
+GetEnvironmentVariableW
+lstrcpyA
+LocalFree
+WideCharToMultiByte
+CreateMutexA
+KERNEL32.dll
+DestroyWindow
+CreateWindowExW
+UnregisterClassA
+UnregisterClassW
+SetPropA
+USER32.dll
+InitializeSecurityDescriptor
+RegCloseKey
+RegQueryValueExA
+RegOpenKeyExA
+ADVAPI32.dll
+__CxxFrameHandler
+_local_unwind2
+_snprintf
+MSVCRT.dll
+_wcsicmp
+_stricmp
+%s %s is %x    %s
+v 8.0.5.2.2
+v 9.2.0.4.0 P1
+v 8.1.6.3.1
+v 9.0.1.3.1 P3
+v 8.1.7.4.20
+v 9.2.0.6 Base
+v 8.1.6.3.3
+v 10.1.0.4 Patch 3
+v 9.0.1.5 Patch 5 FIPS
+v 9.2.0.4 Patch 3
+v 7.3.4.5.2
+v 8.1.6.1.1
+v 9.0.1.2.0 P5
+v 10.1.0.3 Patch 5
+v 9.2.0.6 Patch 6
+v 8.1.6.3.5
+v 8.0.3.0.0
+v 9.2.0.1.0
+v 9.2.0.2.1 P5
+v 7.3.3.5.3
+v 8.1.6.1.5
+v 8.1.7.1.3
+v 9.2.0.3.0 P1
+v 9.0.1.4.1 Patch 6
+v 9.0.1.5 Patch 9
+v 8.1.7.4.17
+v 8.0.5.0.0
+v 9.2.0.6 Patch 2
+v 9.2.0.3.0 P3
+v 8.1.7.4 Patch 22
+v 9.0.1.1.1
+v 8.0.3.2.3
+v 9.0.1.3.1 P4
+v 9.2.0.4 Base
+v 8.0.4.3.8
+v 9.2.0.6 Patch 1
+v 9.2.0.6 Patch 3
+v 8.1.7.3.2
+v 8.0.6.3.8
+v 9.0.1.5.0
+v 8.1.6.3.4
+v 10.1.0.2.0 Patch 3
+v 10.1.0.3 Patch 6
+v 8.1.5.0.5
+v 9.0.1.4.1 Patch 9
+v 8.1.7.1.1
+v 8.1.7.4.1
+v 8.1.7.2.7
+v 9.0.1.4.1
+v 7.3.2.3.15
+v 10.1.0.3 Patch 4
+v 9.0.1.2.0
+v 8.0.5.2.1
+v 7.3.4.0.0
+v 7.3.3.6.0
+v 10.1.0.4.2 Patch 1
+v 8.1.7.4.5
+v 8.1.7.3.0
+v 8.1.7.4.12
+v 9.2.0.6 Patch 11
+v 8.0.6.1.0
+v 9.2.0.5 Patch 4
+v 9.0.1.4.1 Patch 12
+v 9.2.0.7 Base
+v 9.0.1.2.0 P2
+v 9.0.1.5 Patch 2
+v 9.0.1.4.1 Patch 10
+v 7.3.4.5.0
+v 9.0.1.5 Patch 6
+v 9.0.1.4.1 P4
+v 9.0.1.4.1 P3
+v 9.0.1.4.1 P2
+v 8.1.6.0.0
+v 8.1.7.4 Patch 23
+v 8.1.7 p1575474
+v 9.0.1.5 Patch 8
+v 9.0.1.3.1 P5
+v 8.0.6.3.3
+v 9.2.0.5 Patch 2
+v 8.0.6.1.2
+v 9.0.1.4.1 P1
+v 9.0.1.3.1
+v 10.1.0.2.0 patch 6
+v 9.2.0.6 Patch 10
+v 10.1.0.4 Patch 5
+v 10.1.0.4 Patch 1
+v 8.0.4.0.0
+v 10.1.0.3.0 Base
+v 8.0.4.4.1
+v 8.1.6.3.2
+v 8.0.5.2.4
+v 8.1.5.0.1
+v 10.1.0.4 Patch 4
+v 10.1.0.2.0 Patch 1
+v 8.1.6.1.2
+v 9.2.0.6 Patch 9
+v 9.2.0.5 Patch 6
+v 10.1.0.3 Patch 2
+v 8.1.7.4.6
+v 9.2.0.5 Patch 9
+v 9.2.0.3 Base
+v 9.2.0.3.0 P2
+v 8.0.5.1.5
+v 9.2.0.4 Patch 8
+v 8.0.4.0.1
+v 8.1.7.4.18
+v 8.1.6.3.8
+v 8.1.6.3.0
+v 10.1.0.4 Patch 6
+v 10.1.0.3 Patch 9
+v 8.0.6.0.0
+v 9.2.0.2.1 P2
+v 8.0.5.2.6
+v 8.1.7.4.7
+v 9.2.0.5 Patch 5
+v 8.1.7.1.2
+v 8.0.6.3.2P2
+v 10.1.0.3 Patch 3
+v 9.2.0.1.1
+v 8.0.4.3.5
+v 8.1.7.3.3
+v 8.1.7.4.19
+v 8.1.7.2.3
+v 10.1.0.2.0 patch 5
+v 9.2.0.7 Patch 1
+v 9.2.0.2.1 Base
+v 9.2.0.4 Patch 7
+v 8.1.7.4.16
+v 8.1.7.4.9
+v 8.1.7.4.15
+v 8.1.7.2.4
+v 9.2.0.1.2
+v 8.1.6 p1683364
+v 8.1.5.0.4
+v 8.1.7.0.0
+v 9.2.0.6 Patch 5
+v 9.2.0.5 Patch 8
+v 7.3.3.0.0
+v 9.2.0.6 Patch 7
+v 7.2.2.4.0
+v 9.2.0.5 Patch 3
+v 8.1.5.1.1
+v 8.1.7.1.5
+v 8.1.7.4.13
+v 8.1.5.1.0
+v 10.1.0.2.0 Patch 4
+v 9.2.0.4.0 P2
+v 8.1.5.0.0
+v 10.1.0.2.0 Base
+v 8.0.4.4.0
+v 9.0.1.5 Patch 4
+v 9.2.0.4 Patch 5
+v 10.1.0.4.0 Base
+v 10.1.0.3 Patch 10
+v 9.2.0.5.0 P1
+v 10.1.0.3 Patch 8
+v 8.1.7.2.2
+v 9.0.1.4.1 Patch 7
+v 7.3.4.4.0
+v 8.1.7.2.5
+v 9.2.0.5.0
+v 8.0.6.3.2
+v 9.2.0.2.1 Patch 1
+v 8.1.6.3.6
+v 10.1.0.2.0 Patch 2
+v 7.3.2.2.0
+v 9.2.0.2.1 P6
+v 8.1.7.2.1
+v 8.0.5.2.5
+v 9.0.1.3.1 P2
+v 8.1.6.1.3
+%s%d%s %8x
+%s%d%s %8x
+	%s %8x, %s %8x, %s %8x, %s %8x
+_except_handler3
+advapi32.dll
+LsaNtStatusToWinError
+ZwOpenProcess
+ntoskrnl.exe
+ntkrnlpa.exe
+KeRaiseIrqlToDpcLevel
+KeRaiseIrqlToSynchLevel
+ntdll.dll
+RtlImageDirectoryEntryToData
+KeGetCurrentIrql
+RtlUnwind
+cnFormSyncExFBC
+cnFormVoidFBC
+KeServiceDescriptorTable
+_except_handler3
+cnFormSyncExFBC
+cnFormVoidFBC
+KeServiceDescriptorTable
+_except_handler3
+win32k.sys
+NtQuerySystemInformation
+ntdll.dll
+NtQueryInformationProcess
+9(:,:0:4:e:
+;-;7;A;f;p;z;
+<0<:<D<Y<c<
+=4=>=l=v=
+=G>Q>[>w>
+?%?A?K?U?z?
+0&000U0_0i0~0
+242>2l2v2
+3G3Q3[3w3
+4%4:4D4i4s4}4
+5&505U5_5i5~5
+6)636H6R6
+7#7-7W7^7e7s7z7
+;-;>;O;c;t;
+!0=0m0y0
+111=1g1x1|1
+<$=+=5=A=M=Y=`=
+>7>X>\>`>d>h>(?;?K?i?n?t?{?
+)0K0Q0_0i0
+2,31393`3K4U4l4
+6"6/6@6L6
+=M=]=?>E>t>
+455;5H5X5e5
+8e9j9%:+:8:H:U:w:
+97:C:M:n:
+<	=(=W=o=
+2(313:3C3L3U3]3
+42585>5D5J5P5
+1(181H1T1X1d1h1x1
+2$2(24282D2H2
+:$:,:4:<:D:L:T:\:d:l:x:
+;$;,;4;<;D;P;l;t;|;
+jjjjjjh
+jjjh
+prkMtx
+prkMtx
+prkMtx
+STATIC
+prkMtx
+prkMtx
+prkMtx
+windir
+\system32\win32k.sys
+cnFormSyncExFBC
+CcnFormVoidFBC
+prkMtx
+windir
+\system32\win32k.sys
+cnFormSyncExFBC
+CcnFormVoidFBC
+prkMtx
+windir
+\system32\win32k.sys
+cnFormSyncExFBC
+cnFormSyncExFBC
+cnFormVoidFBC
+cnFormVoidFBC
+prkMtx
+windir
+\system32\win32k.sys

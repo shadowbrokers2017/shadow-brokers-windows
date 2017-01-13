@@ -1,0 +1,152 @@
+Imported functions
+    Library
+        Name:                            ntoskrnl.exe
+        Functions
+            Function
+                Name:                            ZwOpenKey
+            Function
+                Name:                            ZwQueryValueKey
+            Function
+                Name:                            KeInitializeMutex
+            Function
+                Name:                            ExAllocatePoolWithTag
+            Function
+                Name:                            ZwWriteFile
+            Function
+                Name:                            ZwQueryInformationFile
+            Function
+                Name:                            ZwCreateFile
+            Function
+                Name:                            KeWaitForSingleObject
+            Function
+                Name:                            KeReleaseMutex
+            Function
+                Name:                            RtlCopyUnicodeString
+            Function
+                Name:                            RtlInitUnicodeString
+            Function
+                Name:                            ZwClose
+            Function
+                Name:                            memset
+            Function
+                Name:                            memcpy
+            Function
+                Name:                            ExFreePoolWithTag
+            Function
+                Name:                            KeDelayExecutionThread
+            Function
+                Name:                            ObfDereferenceObject
+            Function
+                Name:                            KeWaitForMultipleObjects
+            Function
+                Name:                            PsTerminateSystemThread
+            Function
+                Name:                            ObReferenceObjectByHandle
+            Function
+                Name:                            PsCreateSystemThread
+            Function
+                Name:                            IoFreeMdl
+            Function
+                Name:                            MmMapLockedPagesSpecifyCache
+            Function
+                Name:                            ExfInterlockedRemoveHeadList
+            Function
+                Name:                            swprintf
+            Function
+                Name:                            ExfInterlockedInsertTailList
+            Function
+                Name:                            ExfInterlockedInsertHeadList
+            Function
+                Name:                            IoFreeWorkItem
+            Function
+                Name:                            IoQueueWorkItem
+            Function
+                Name:                            IoAllocateWorkItem
+            Function
+                Name:                            _alldiv
+            Function
+                Name:                            _allmul
+            Function
+                Name:                            _allrem
+            Function
+                Name:                            IoDeleteSymbolicLink
+            Function
+                Name:                            IoDeleteDevice
+            Function
+                Name:                            IoCreateSymbolicLink
+            Function
+                Name:                            KeQuerySystemTime
+            Function
+                Name:                            IoCreateDevice
+            Function
+                Name:                            IoBuildPartialMdl
+            Function
+                Name:                            MmBuildMdlForNonPagedPool
+            Function
+                Name:                            IoAllocateMdl
+            Function
+                Name:                            _local_unwind2
+            Function
+                Name:                            IofCompleteRequest
+            Function
+                Name:                            RtlAppendUnicodeStringToString
+            Function
+                Name:                            RtlCompareUnicodeString
+            Function
+                Name:                            ZwCreateKey
+            Function
+                Name:                            ZwDeleteKey
+            Function
+                Name:                            ZwEnumerateKey
+            Function
+                Name:                            ZwQueryKey
+            Function
+                Name:                            ZwSetValueKey
+            Function
+                Name:                            memmove
+            Function
+                Name:                            _except_handler3
+    Library
+        Name:                            HAL.dll
+        Functions
+            Function
+                Name:                            KeQueryPerformanceCounter
+            Function
+                Name:                            KfAcquireSpinLock
+            Function
+                Name:                            KfReleaseSpinLock
+    Library
+        Name:                            NDIS.SYS
+        Functions
+            Function
+                Name:                            NdisCloseAdapter
+            Function
+                Name:                            NdisOpenAdapter
+            Function
+                Name:                            NdisAllocateBufferPool
+            Function
+                Name:                            NdisAllocatePacketPool
+            Function
+                Name:                            NdisRequest
+            Function
+                Name:                            NdisFreePacketPool
+            Function
+                Name:                            NdisRegisterProtocol
+            Function
+                Name:                            NdisUnchainBufferAtFront
+            Function
+                Name:                            NdisFreePacket
+            Function
+                Name:                            NdisSetEvent
+            Function
+                Name:                            NdisInitializeEvent
+            Function
+                Name:                            NdisAllocatePacket
+            Function
+                Name:                            NdisResetEvent
+            Function
+                Name:                            NdisDeregisterProtocol
+            Function
+                Name:                            NdisFreeBufferPool
+            Function
+                Name:                            NdisWaitEvent

@@ -1,0 +1,556 @@
+!This program cannot be run in DOS mode.
+wH;wLt*S
+map/set<T> too long
+invalid map/set<T> iterator
+??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ
+??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@ABV01@@Z
+??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBD@Z
+??1?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAE@XZ
+??Y?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEAAV01@ABV01@@Z
+??0?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAE@ABV01@@Z
+??0?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAE@PBG@Z
+??Y?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEAAV01@PBG@Z
+??Y?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEAAV01@G@Z
+??0?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAE@XZ
+MSVCP71.dll
+DisableThreadLibraryCalls
+MultiByteToWideChar
+WideCharToMultiByte
+FormatMessageW
+CreateMutexA
+CloseHandle
+WaitForSingleObject
+ReleaseMutex
+KERNEL32.dll
+??0exception@@QAE@ABV0@@Z
+__CxxFrameHandler
+_CxxThrowException
+_vsnwprintf
+_except_handler3
+MSVCR71.dll
+??3@YAXPAX@Z
+??1type_info@@UAE@XZ
+_initterm
+_adjust_fdiv
+__CppXcptFilter
+?terminate@@YAXXZ
+__dllonexit
+??$?MGU?$char_traits@G@std@@V?$allocator@G@1@@std@@YA_NABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@0@0@Z
+??4?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEAAV01@ABV01@@Z
+	?reserve@?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEXI@Z
+??4?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEAAV01@PBG@Z
+?_Nomemory@std@@YAXXZ
+??1exception@@UAE@XZ
+??0exception@@QAE@XZ
+_snwprintf
+??_V@YAXPAX@Z
+iswalnum
+iswalpha
+_callnewh
+.?AVexception@@
+.?AVtype_info@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+4#4Q4e4s4
+5-6A6U6i6}6
+7-7A7U7i7}7
+818E8Y8m8
+9!959I9]9q9
+:%:9:M:a:u:
+;);=;Q;_;m;{;
+0@0M0a0k0
+2"2(2.242:2@2F2L2R2X2^2d2j2p2v2|2
+33393?3E3K3d3j3p3v3~3
+4"4&4*4.42464:4>4B4Y4^4d4j4p4v4|4
+5$5*50565<5B5H5N5T5Z5`5f5l5r5x5~5
+6 6&6,62686>6D6J6P6V6\6b6h6n6t6z6
+7"7(7.747:7@7F7L7R7X7^7d7j7p7v7|7
+8$8*80868<8B8H8N8T8Z8`8f8l8r8x8~8
+9 9&9,92989>9D9J9P9V9\9b9h9n9t9z9
+:":(:.:4:::@:F:L:R:X:^:d:j:p:v:|:
+;";&;*;.;2;6;:;>;B;F;J;N;R;V;Z;^;b;f;j;n;r;v;z;~;
+<"<&<*<.<2<6<:<><B<F<J<N<R<V<Z<^<b<f<j<n<r<v<z<~<
+="=&=*=.=2=6=:=>=B=F=J=N=R=V=Z=^=b=f=j=n=r=v=z=~=
+>">&>*>.>2>6>:>>>B>F>J>N>R>V>Z>^>b>f>j>n>r>v>z>~>
+?"?&?*?.?2?6?:?>?B?F?J?N?R?V?Z?^?b?f?j?n?r?v?z?~?
+0"0&0*0.02060:0>0B0F0J0N0R0V0Z0^0b0f0j0n0r0v0z0~0
+1"1&1*1.12161:1>1B1F1J1N1R1V1Z1^1b1f1j1n1r1v1z1~1
+2"2&2*2.22262:2>2B2F2J2N2R2V2Z2^2b2f2j2n2r2v2z2~2
+3"3&3*3.32363:3>3B3F3J3N3R3V3Z3^3b3f3j3n3r3v3z3~3
+4"4&4*4.42464:4>4B4F4J4N4R4V4Z4^4q4
+5!505A5O5a5i5u5{5
+5"6(6@6S6
+7#7/7<7B7I7R7X7g7
+8J8P8v8|8
+9!:-:4:d:j:p:
+1A2N2c2r2x2
+2*202=2C2L2d2
+3%4-424;4
+4&515A5I5Q5Y5b5q5~5
+7%7E7J7R7n7t7|7
+7*8?8D8L8\8q8y8
+;<;F;P;i;
+<"<5<:<U<i<u<z<
+=%=<=L=V=
+X4`4d4h4l4t4x4
+4D6H6P6h6|6
+7(707<7T7`7
+8 8,8D8L8T8`8x8
+8$989D9L9\9d9p9
+: :,:D:P:h:p:|:
+; ;,;D;L;X;p;|;
+<4<L<`<l<t<
+= =,=D=L=X=p=x=
+>$>8>D>L>\>h>
+0,040<0D0L0T0\0d0l0t0|0
+Unknown function in win32k.sys
+Open of win32k.sys failed
+Failed to get pattern matching known information for win32k.sys
+This command does not currently support NT4 Terminal Server
+Unable to find Administrators group
+An excpetion was thrown updating win2k group token
+An exception was thrown walking the tokens list
+Current user is System -- unable to join administrators group
+Unable to determine current user
+Problem with format
+Process GID structure is invalid
+Process UID structure is invalid
+Process token is invalid
+Process with the given id not found
+Callback function failed
+Invalid parameter
+Invalid input
+Error
+Failed to get XML
+0x%x
+Plugin is already loaded
+Procedure not implemented
+Plugin not found
+Initialization failed
+Device IOCTL failed
+Out of memory
+Invalid data
+Internal error
+Marshalling not supported
+Timeout
+Not implemented
+Version requirements not met
+Plugin dependency not met
+Unknown API failure
+Injection Lib -  this is the value returned when the code injection failed
+Injection Lib -  Exception Handler prep - Exception Raised
+Injection Lib -  Exception Handler prep - StaticScopeTable address NULL
+Injection Lib -  Exception Handler prep - ScopeTable Malloc failed
+Injection Lib -  Exception Handler prep - Remote Parameter Structure does not have a injectLibStruct as it first element.
+ Or privilegeBuildLibStruct has not been called
+Injection Lib -  Exception Handler prep - Ptr to Virtual Remote Parameter Structure address not found.
+Injection Lib -  Exception Handler prep - Ptr to Except Handler3 Thunk function NULL.
+Injection Lib -  Exception Handler prep - Ptr to Virtual Except Handler3 Thunk address not found.
+Injection Lib -  Exception Handler prep - push ScopeTable address not found.
+Injection Lib -  Exception Handler prep - Found multiple push ScopeTable address found.
+Injection Lib -  Exception Handler prep - Found multiple push Mucked Except Handler3 addresses.
+Injection Lib -  Exception Handler prep - GetProcAddress(_EXCEPT_HANDLER3) failed
+Injection Lib -  Exception Handler prep - LoadLib(MSVCRT) failed
+Injection Lib -  Exception Handler prep - Ptr to Virtual ScopeTable is NULL
+Injection Lib -  Exception Handler prep - Ptr to Virtual InjectionFunc is NULL
+Injection Lib -  Exception Handler prep - Ptr to InjectionFunc is NULL
+Injection Lib -  Exception Handler prep function failed.
+Injection Lib -  Get ScopeTable Size - Exception Raised
+Injection Lib -  Get ScopeTable Size routine failed.
+Injection Lib -  Get ScopeTable Size - Ptr to InjectionFunc is NULL
+Injection Lib -  Unable to allocate needed memory for the Exception Handler3 Thunk function source code.
+Injection Lib -  Unable to allocate needed memory for the injection function source code.
+Injection Lib -  Parameter dwCodeSize is negative.
+Refer to the injectSetupStruct help page in the PrivilegeLib documentation for
+information on how to calculate dwCodeSize.
+Injection Lib -  Parameter pInjectFunc is NULL.
+Injection Lib -  Pointer to Parameters structure is NULL
+Injection Lib -  Call to VirtualFreeEx failed during cleanup.  Data should still be valid.
+Injection Lib -  Called function failed
+Injection Lib -  GetProcAddress failed on Kernel32.DLL function
+Injection Lib -  GetModuleHandle Kernel32.dll request failed.
+Injection Lib -  Exception Raised.
+Injection Lib -  Implant failed to receive an exit code from the injected DLL.
+Injection Lib -  Call to WaitForSingleObject failed.
+Injection Lib -  Call to CreateRemoteThread failed.
+Injection Lib -  Call to ReadProcessMemory failed.
+Injection Lib -  WriteProcessMemory ExceptHandler3Thunk bytes written not equal to requested bytes
+Injection Lib -  Call to WriteProcessMemory ExceptHandler3Thunk failed.
+Injection Lib -  WriteProcessMemory ScopeTable bytes written not equal to requested bytes
+Injection Lib -  Call to WriteProcessMemory ScopeTable failed.
+Injection Lib -  WriteProcessMemory InjectStruct bytes written not equal to requested bytes
+Injection Lib -  Call to WriteProcessMemory InjectStruct failed.
+Injection Lib -  WriteProcessMemory InjectFunc bytes written not equal to requested bytes
+Injection Lib -  Call to WriteProcessMemory InjectFunc failed.
+Injection Lib -  Call to VirtualProtectEx failed.
+Injection Lib -  Call to VirtualAllocEx failed.
+Injection Lib -  JUMPUP failed to give Privileges
+Injection Lib -  JUMPUP failed to open requested process
+Injection Lib -  Call to processGetIdFromName failed
+Injection Lib -  Unknown error Injection library
+File channel reset failed
+File channel reset
+File get operation completed
+File send operation completed
+Unable to write file data to the channel or read from the input file
+Unable to read file data from the channel or write it to the output file
+File open for read failed
+File open for write failed
+Unable to sync send and get file operations
+Invalid (NULL) parameter passed to file function
+Unknown error file library
+Decompression of data encountered an error
+Not enough data in receive buffer
+Received data header is corrupt
+Error allocating necessary memory
+Error writing data to EP
+Error reading data from EP
+Unknown error from channel
+system
+type
+plugin
+value
+Host not found.
+Non-authoritative host not found.
+This is a non-recoverable error.
+Valid name, no data record of requested type.
+Class type not found.
+WINSOCK.DLL version out of range.
+Successful WSAStartup not yet performed.
+Graceful shutdown in progress.
+System call failure.
+Network subsystem is unavailable.
+Connection timed out.
+Cannot send after socket shutdown.
+Too many processes.
+Socket is not connected.
+No buffer space available.
+Socket is already connected.
+No route to host.
+Host is down.
+Connection reset by peer.
+Connection refused.
+Software caused connection abort.
+Network dropped connection on reset.
+Resource temporarily unavailable.
+Socket type not supported.
+Protocol wrong type for socket.
+Protocol not supported.
+Protocol family not supported.
+Operation not supported.
+Socket operation on non-socket.
+Bad protocol option.
+Network is unreachable.
+Network is down.
+Message too long.
+Too many open files.
+Invalid argument.
+Interrupted function call.
+Operation now in progress.
+Bad address.
+Destination address required.
+Operation already in progress.
+Address family not supported by protocol family.
+Cannot assign requested address.
+Address already in use.
+Permission denied.
+This machine is a domain controller and cannot be unjoined from a domain
+This machine is not currently joined to a domain
+This machine is already joined to a domain
+Dfs internal error
+The operation is not supported on a server-based Dfs
+A cycle in the Dfs name was detected
+The specified server is not a server for this volume
+The specified Dfs volume is offline
+The specified rename target path is invalid
+The server is not Dfs Aware
+Unable to create a junction point
+The operation is ambiguous because the volume has multiple servers
+The operation is not valid on a leaf volume
+The operation is not valid on a non-leaf volume
+The indicated server share does not support the indicated Dfs volume
+The server share specified is already shared in the Dfs
+A volume with the given name already exists
+There is no volume whose entry path matches the input Entry Path
+One of the records in the internal Dfs database is corrupt
+The internal database maintained by the Dfs service is corrupt
+Configuration name is in use by some other configuration
+(boot name, vendor id) is in use by some other boot block record
+Vendor name is in use by some other vendor record
+Vendor record was not found
+Adapter record was not found
+Service failed to backup Remoteboot database
+There are workstations, profiles or configurations using this boot block
+There are profiles using this configuration
+Chosen network adapter id is in use by some other workstation
+Chosen profile is incompatible with this workstation
+Boot block record was not found
+The RPLUSER local group could not be found
+The user account for this workstation record is missing
+Boot block record information has been corrupted
+Vendor id record information has been corrupted
+An internal service error has occurred
+Adapter id record information has been corrupted
+Configuration record was not found
+Configuration record information has been corrupted
+There are workstations using this profile
+Profile name is in use by some other profile
+Profile record was not found
+Profile record information has been corrupted
+Workstation name is in use by some other workstation
+Workstation record was not found
+Workstation record information has been corrupted
+Cannot enumerate service records
+Service failed to start because RPLUSER group is absent
+Service failed to start because RPLFILES share is absent
+Service failed to start because its database is absent or corrupt
+Service failed to start due to bad startup information in the registry
+Service failed to start since none of the network adapters started with this service
+The browser service was configured with MaintainServerList=No
+A second connection to a Remoteboot resource is not allowed
+Remote boot startup failed; check the error log for the cause of the problem
+Remote boot service was stopped; check the error log for the cause of the problem
+Connecting to the Remoteboot server...
+Cannot open image file on the Remoteboot server
+Cannot connect to the Remoteboot server
+The call to the Remoteboot server failed
+Remote boot will be restarted later
+The image was not generated from an MS-DOS diskette formatted with /S
+Too many image parameters cross disk sector boundaries
+Image parameter substitution failed
+A disk I/O error occurred
+NetBIOS returned an error: The NCB and SMB are dumped above
+No loader is specified in the boot-block definition file
+The file below is corrupt
+The workstation failed to boot
+The program below called an unsupported MS-DOS function
+The program below needs more memory
+The program below returned an MS-DOS error code
+The UPS service failed to perform a system shut down
+The UPS indicated a line fail or low battery situation. Service not started
+The UPS service could not access the specified Comm Port
+The UPS service is not configured correctly
+The UPS driver could not be accessed by the UPS service
+Try down-level (remote admin protocol) version of API instead
+There are no alternate servers registered on this server
+The server cannot open more files because it has reached its maximum number
+The server has reached the maximum number of connections it supports
+The server has reached the maximum number of sessions it supports
+There is no space for another entry in the table of available servers
+The connection identification does not specify a valid connection
+The session identification does not specify a valid session
+The server identification does not specify a valid server
+A password mismatch has been detected
+This server's clock is not synchronized with the primary domain controller's clock
+Unable to add to the user accounts database
+The Netlogon service has not been started
+Could not set logon information for this user
+Could not find domain controller for this domain
+This operation is not allowed on the last administrative account
+This operation is not permitted when the Netlogon service is running
+The user accounts database is not configured correctly
+The log file does not contain the requested record number
+A user's session with this server has been deleted
+The alert recipient is invalid
+An invalid or nonexistent alert name was raised
+The alert table is full
+The specified client is already registered for the specified event
+The drive letter is in use locally
+The device is being accessed by an active process
+This share name or password is invalid
+Active connections still exist
+There are open files on the connection
+The LAN adapter number is invalid
+The shared resource you are connected to could not be found
+An error occurred when starting a background process
+An error occurred when communicating with a Run server
+The Run server you requested is paused
+The source and destination paths are on different servers
+The destination path is illegal
+The source path is illegal
+The source path cannot be a directory
+Log file %1 is corrupt
+This log file has changed between reads
+Log file %1 is full
+Errors occurred while saving the profile file.  The profile was partially saved
+An error occurred while loading the profile file
+The system was unable to parse the command line in this file
+The system cannot delete current connections to network resources
+The start offset is out of range
+Profile files cannot exceed 64K
+The buffer for types is not big enough
+Could not determine the type of input
+This path component is invalid
+The string and prefix specified are too long
+This computer name is invalid
+This device is already in use as a communication device
+This device is already in use by the spooler
+The requested device is invalid
+This list of devices is invalid
+The queue you specified does not exist
+There are no shared communication devices
+The queue priority is invalid
+This device name list is invalid
+This device was not open
+This device cannot be shared
+The operation is invalid for this device
+The share must be removed from the Distributed File System before it can be deleted
+The computer is not active in this domain
+The information in the list of servers may be incorrect
+This device cannot be shared as both a spooled and a non-spooled resource
+The data returned from a remote administration command has been truncated to 64K
+A failure occurred when opening a remote temporary file
+A failure occurred when executing a remote administration command
+There is not an open file with that identification number
+A session does not exist with that computer name
+This device is not shared
+This shared resource does not exist
+This operation is not supported on computers with multiple networks
+The message alias was not successfully deleted from all networks
+This message alias will be deleted later
+A duplicate message alias exists on the network
+A write fault occurred
+This is an invalid device name
+The broadcast message was truncated
+Messages for this alias are not currently being forwarded
+The message alias table on the remote station is full
+The forwarded message alias could not be found on the network
+The name is not on the local computer
+The Messenger service has not been started
+The message alias is currently in use. Try again later
+The message was sent but not received
+The message was sent, but the recipient has paused the Messenger service
+An error occurred in the domain message processor
+Messages cannot be forwarded back to the same workstation
+The computer name could not be deleted
+The maximum number of added message aliases has been exceeded
+This message alias already exists locally
+This message alias has been added but is still forwarded
+This message alias has already been forwarded
+The message alias could not be found on the network
+The Messenger service failed to start
+The Messenger service is already started
+The computer name could not be added as a message alias.  The name may already exist on the network
+This device is currently being shared
+This asg_type is invalid
+The network connection could not be found
+This replicant database is outdated; synchronization is required
+No updates are necessary to this replicant network/local security database
+The security database is corrupted
+The password of this user is too recent to change
+The password is shorter than required
+This password cannot be used now
+The password of this user cannot change
+The password of this user has expired
+The user is not allowed to log on at this time
+The user is not allowed to log on from this workstation
+This user account has expired
+This user account is undefined
+The user does not belong to this group
+The user already belongs to this group
+This user is not cached in user accounts database session cache
+This operation is not allowed on this special group
+Unable to add to the security database session cache segment
+The parent directory could not be located
+Deleting a user with a session is not allowed
+The limit of 64 entries per resource was exceeded
+A disk I/O failure occurred
+There are too many names in the user accounts database
+The security database has not been started
+This operation is only allowed on the primary domain controller of the domain
+The resource permission list already exists
+The user account already exists
+The group already exists
+The resource name could not be found
+The user name could not be found
+The group name could not be found
+The security database could not be found
+The logon server could not validate the logon
+There is already a logon domain for this computer
+The logon server could not be found
+The logon server was not specified.  Your computer will be logged on as STANDALONE
+An error occurred while loading or running the logon script
+The server is configured without a valid user path
+A centralized logon-server conflict occurred
+Network logons are paused
+The logoff processor did not delete the message alias
+The logon processor did not add the message alias
+The password parameter is invalid
+The user name or group name parameter is invalid
+The workstation is not logged on to the local-area network
+This workstation is already logged on to the local-area network
+A thread for the new service could not be created
+The service control dispatcher pipe read failed
+The service control dispatcher could not find the service name in the dispatch table
+The requested pause or stop is not valid for this service
+The service ended abnormally
+The service could not be controlled in its present state
+The configuration file contains an invalid service program name
+The service control is busy
+The service is not responding to the control function
+The service name is invalid
+The service has not been started
+The service does not respond to control actions
+The requested service has already been started
+The service table is full
+The service database is locked
+The print processor is not installed
+The data type is not supported by the print processor
+The device driver does not exist
+A spooler memory allocation failure occurred
+This operation cannot be performed on the print job in its current state
+This operation cannot be performed on the printer queue in its current state
+This operation cannot be performed on the print destination in its current state
+The spooler is not running
+The print processor is not responding
+This printer destination request contains an invalid control function
+This printer destination is idle and cannot accept control operations
+No more printer destinations can be added
+No more print jobs can be added
+No more printers can be added
+The printer queue already exists
+The printer destination already exists
+The printer destination cannot be found
+The print job does not exist
+The printer does not exist
+A line in the configuration file is too long
+The specified parameter could not be found in the configuration information
+The specified component could not be found in the configuration information
+The computer name already exists on the network. Change it and restart the computer
+The event name is invalid
+The requested API is not supported on the remote server
+The server is not configured for transactions
+An internal Windows NT error occurred
+The requested information is not available
+The Workstation service has not been started
+The Workstation service is in an inconsistent state. Restart the computer before restarting the Workstation service
+A general network error occurred
+An error occurred when opening or reading the configuration file
+A remote API error occurred
+The API return buffer is too small
+The Peer service supports only two simultaneous users
+Requested addition of items exceeds the maximum allowed
+The server is currently out of the requested resource
+The name has already been shared
+The operation is invalid on a redirected resource
+The device or directory does not exist
+The queue is empty
+The Server service is not started
+The device is not connected
+This operation is not supported on workstations
+A network resource shortage occurred
+An internal error occurred.  The network cannot access a shared memory segment
+The server could not be located
+The workstation driver is not installed
+Unknown Error: %d (0x%x)
+&amp;
+&gt;
+&lt;
+&#x%02x;
+r&quot;
+&apos;
+ -->
+<!-- 
+lptimestamp
+%04d-%02d-%02dT%02d:%02d:%02d

@@ -1,0 +1,118 @@
+Imported functions
+    Library
+        Name:                            MSVCP71.dll
+        Functions
+            Function
+                Name:                            ??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ
+            Function
+                Name:                            ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@ABV01@@Z
+            Function
+                Name:                            ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBD@Z
+            Function
+                Name:                            ??1?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAE@XZ
+            Function
+                Name:                            ??Y?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEAAV01@ABV01@@Z
+            Function
+                Name:                            ??0?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAE@ABV01@@Z
+            Function
+                Name:                            ??0?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAE@PBG@Z
+            Function
+                Name:                            ??Y?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEAAV01@PBG@Z
+            Function
+                Name:                            ??Y?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEAAV01@G@Z
+            Function
+                Name:                            ??$?MGU?$char_traits@G@std@@V?$allocator@G@1@@std@@YA_NABV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@0@0@Z
+            Function
+                Name:                            ??4?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEAAV01@ABV01@@Z
+            Function
+                Name:                            ?reserve@?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEXI@Z
+            Function
+                Name:                            ??4?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAEAAV01@PBG@Z
+            Function
+                Name:                            ??0?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@QAE@XZ
+            Function
+                Name:                            ?_Nomemory@std@@YAXXZ
+    Library
+        Name:                            KERNEL32.dll
+        Functions
+            Function
+                Name:                            WaitForSingleObject
+            Function
+                Name:                            CloseHandle
+            Function
+                Name:                            CreateMutexA
+            Function
+                Name:                            FormatMessageW
+            Function
+                Name:                            WideCharToMultiByte
+            Function
+                Name:                            MultiByteToWideChar
+            Function
+                Name:                            DisableThreadLibraryCalls
+            Function
+                Name:                            ReleaseMutex
+    Library
+        Name:                            MSVCR71.dll
+        Functions
+            Function
+                Name:                            ??0exception@@QAE@ABV0@@Z
+            Function
+                Name:                            __CxxFrameHandler
+            Function
+                Name:                            _CxxThrowException
+            Function
+                Name:                            wcscpy
+            Function
+                Name:                            strncmp
+            Function
+                Name:                            ??1exception@@UAE@XZ
+            Function
+                Name:                            ??0exception@@QAE@XZ
+            Function
+                Name:                            ??3@YAXPAX@Z
+            Function
+                Name:                            _snwprintf
+            Function
+                Name:                            ??_V@YAXPAX@Z
+            Function
+                Name:                            iswalnum
+            Function
+                Name:                            wcslen
+            Function
+                Name:                            iswalpha
+            Function
+                Name:                            _vsnwprintf
+            Function
+                Name:                            gmtime
+            Function
+                Name:                            time
+            Function
+                Name:                            free
+            Function
+                Name:                            strlen
+            Function
+                Name:                            malloc
+            Function
+                Name:                            memcpy
+            Function
+                Name:                            strcpy
+            Function
+                Name:                            memset
+            Function
+                Name:                            _except_handler3
+            Function
+                Name:                            _callnewh
+            Function
+                Name:                            ??1type_info@@UAE@XZ
+            Function
+                Name:                            _initterm
+            Function
+                Name:                            _adjust_fdiv
+            Function
+                Name:                            __CppXcptFilter
+            Function
+                Name:                            ?terminate@@YAXXZ
+            Function
+                Name:                            __dllonexit
+            Function
+                Name:                            _onexit

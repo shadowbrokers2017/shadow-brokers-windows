@@ -1,0 +1,42 @@
+Imported functions
+    Library
+        Name:                            MSVCRT.dll
+        Functions
+            Function
+                Name:                            _adjust_fdiv
+            Function
+                Name:                            malloc
+            Function
+                Name:                            _initterm
+            Function
+                Name:                            free
+            Function
+                Name:                            __CxxFrameHandler
+    Library
+        Name:                            KERNEL32.dll
+        Functions
+            Function
+                Name:                            GetProcAddress
+            Function
+                Name:                            OpenProcess
+            Function
+                Name:                            ReleaseMutex
+            Function
+                Name:                            WaitForSingleObject
+            Function
+                Name:                            CreateMutexA
+            Function
+                Name:                            DisableThreadLibraryCalls
+            Function
+                Name:                            TerminateProcess
+            Function
+                Name:                            GetLastError
+            Function
+                Name:                            GetModuleHandleA
+            Function
+                Name:                            CloseHandle
+    Library
+        Name:                            ADVAPI32.dll
+        Functions
+            Function
+                Name:                            RegCloseKey
